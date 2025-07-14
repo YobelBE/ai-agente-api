@@ -20,6 +20,7 @@
 | `cargar_db.ipynb` | Notebook con el procedimiento para crear las tablas que funcionarán como checkpoint |
 | `pandas_agent.py` | Script con un ejemplo de como se emplea y como funciona un agente de pandas para analizar información |
 | `pdf_to_rag.py` | Script con un ejemplo de como se cargan los PDFs a la base de datos vectorial de Elastic Search|
+| `test_local.py` | Script para realizar pruebas de manera local|
 | `rag_files/` | Archivos de ejemplo que fueron a la base de datos vectorial de Elastic Search |
 | `Taller GenAI Crea tu primera aplicación.pdf` | Presentación del taller (16 slides). |
 | `docs/` | Carpeta de arquitectura  |
