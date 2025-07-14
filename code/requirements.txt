@@ -10,3 +10,7 @@ langchain
 langchain-community
 elasticsearch
 langchain-elasticsearch
+pypdf
+pytz
+pandas
+langchain-experimental
